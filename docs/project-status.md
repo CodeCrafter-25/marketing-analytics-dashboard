@@ -2,7 +2,7 @@
 
 ## Current Stage
 
-Project planning and dataset selection.
+Dataset selected. Preparing source files for data quality assessment and BigQuery import.
 
 ## Completed
 
@@ -10,6 +10,9 @@ Project planning and dataset selection.
 - Initial project structure created
 - Preliminary business objectives defined
 - Planned marketing metrics identified
+- Marketing Campaigns & Conversions Dataset selected
+- Dataset source, structure, license, and limitations documented
+- Preliminary calculated metrics defined
 
 ## Next Steps
 
