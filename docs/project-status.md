@@ -2,7 +2,7 @@
 
 ## Current Stage
 
-Dataset selected. Preparing source files for data quality assessment and BigQuery import.
+Source data inspection and documentation.
 
 ## Completed
 
@@ -13,10 +13,13 @@ Dataset selected. Preparing source files for data quality assessment and BigQuer
 - Marketing Campaigns & Conversions Dataset selected
 - Dataset source, structure, license, and limitations documented
 - Preliminary calculated metrics defined
+- Original source CSV files added to the repository
+- Dataset tables and relationships documented
+- Data dictionary created
 
 ## Next Steps
 
-- Select and evaluate the dataset
-- Define detailed business questions
-- Document the dataset structure
-- Begin data quality assessment
+- Create a BigQuery dataset
+- Import the four source CSV files
+- Validate row counts and table schemas
+- Perform an initial data quality assessment
