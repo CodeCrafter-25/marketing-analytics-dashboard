@@ -1,0 +1,121 @@
+campaign_id,campaign_name,channel,objective,start_date,end_date,budget
+CMP0001,Paid Search 2023 001,paid_search,awareness,2023-06-17,2023-08-17,14867.16
+CMP0002,Paid Social 2023 002,paid_social,awareness,2023-09-27,2023-11-18,49422.28
+CMP0003,Display 2024 003,display,lead_gen,2024-09-27,2024-12-26,40769.77
+CMP0004,Video 2024 004,video,acquisition,2024-10-15,2025-02-16,29625.96
+CMP0005,Affiliate 2024 005,affiliate,acquisition,2024-10-20,2024-12-29,18614.72
+CMP0006,Paid Search 2024 006,paid_search,acquisition,2024-12-22,2025-04-04,50135.67
+CMP0007,Paid Social 2024 007,paid_social,acquisition,2024-08-24,2024-10-11,37197.92
+CMP0008,Display 2023 008,display,lead_gen,2023-10-20,2024-02-06,76141.89
+CMP0009,Video 2024 009,video,lead_gen,2024-08-05,2025-01-01,63858.28
+CMP0010,Affiliate 2023 010,affiliate,awareness,2023-09-03,2023-12-18,73569.34
+CMP0011,Paid Search 2024 011,paid_search,lead_gen,2024-04-25,2024-06-14,53840.09
+CMP0012,Paid Social 2024 012,paid_social,acquisition,2024-08-09,2024-09-23,35704.57
+CMP0013,Display 2023 013,display,lead_gen,2023-12-21,2024-03-01,25531.87
+CMP0014,Video 2025 014,video,awareness,2025-01-11,2025-05-14,48616.15
+CMP0015,Affiliate 2024 015,affiliate,awareness,2024-08-02,2024-11-18,60983.68
+CMP0016,Paid Search 2024 016,paid_search,lead_gen,2024-08-02,2024-12-18,18289.41
+CMP0017,Paid Social 2024 017,paid_social,lead_gen,2024-03-06,2024-04-28,21125.06
+CMP0018,Display 2023 018,display,acquisition,2023-05-15,2023-07-28,9256.84
+CMP0019,Video 2023 019,video,awareness,2023-07-27,2023-09-26,27023.53
+CMP0020,Affiliate 2025 020,affiliate,lead_gen,2025-04-18,2025-08-28,75829.28
+CMP0021,Paid Search 2024 021,paid_search,awareness,2024-07-16,2024-11-30,76193.25
+CMP0022,Paid Social 2024 022,paid_social,acquisition,2024-11-26,2025-01-12,38866.07
+CMP0023,Display 2023 023,display,acquisition,2023-12-07,2024-03-12,21131.30
+CMP0024,Video 2024 024,video,acquisition,2024-03-23,2024-08-12,77960.53
+CMP0025,Affiliate 2024 025,affiliate,awareness,2024-12-02,2025-02-16,65761.80
+CMP0026,Paid Search 2025 026,paid_search,acquisition,2025-04-16,2025-08-09,49802.17
+CMP0027,Paid Social 2023 027,paid_social,awareness,2023-01-07,2023-03-25,11757.40
+CMP0028,Display 2023 028,display,lead_gen,2023-05-09,2023-09-11,8612.99
+CMP0029,Video 2024 029,video,awareness,2024-03-10,2024-06-17,41244.99
+CMP0030,Affiliate 2024 030,affiliate,acquisition,2024-08-26,2024-10-27,56128.75
+CMP0031,Paid Search 2024 031,paid_search,acquisition,2024-07-22,2024-11-13,36274.33
+CMP0032,Paid Social 2024 032,paid_social,acquisition,2024-02-25,2024-05-01,61445.05
+CMP0033,Display 2023 033,display,lead_gen,2023-01-04,2023-03-14,56822.40
+CMP0034,Video 2024 034,video,awareness,2024-03-29,2024-07-25,39122.92
+CMP0035,Affiliate 2025 035,affiliate,awareness,2025-03-02,2025-05-22,22324.72
+CMP0036,Paid Search 2024 036,paid_search,lead_gen,2024-08-01,2024-10-22,53747.66
+CMP0037,Paid Social 2025 037,paid_social,lead_gen,2025-08-28,2025-12-02,47793.96
+CMP0038,Display 2023 038,display,lead_gen,2023-04-28,2023-07-15,39747.04
+CMP0039,Video 2025 039,video,acquisition,2025-01-16,2025-06-12,30625.16
+CMP0040,Affiliate 2023 040,affiliate,awareness,2023-09-01,2023-11-09,15821.08
+CMP0041,Paid Search 2024 041,paid_search,acquisition,2024-03-14,2024-05-08,74625.44
+CMP0042,Paid Social 2023 042,paid_social,lead_gen,2023-08-10,2023-10-23,27889.72
+CMP0043,Display 2025 043,display,awareness,2025-06-24,2025-10-30,57653.83
+CMP0044,Video 2025 044,video,acquisition,2025-06-13,2025-09-05,14555.92
+CMP0045,Affiliate 2024 045,affiliate,awareness,2024-03-26,2024-05-18,11542.55
+CMP0046,Paid Search 2023 046,paid_search,acquisition,2023-10-10,2024-01-18,14833.84
+CMP0047,Paid Social 2023 047,paid_social,acquisition,2023-02-20,2023-04-29,55545.45
+CMP0048,Display 2024 048,display,lead_gen,2024-11-08,2025-03-19,66122.96
+CMP0049,Video 2023 049,video,acquisition,2023-04-19,2023-08-24,28288.51
+CMP0050,Affiliate 2023 050,affiliate,awareness,2023-08-23,2023-12-27,37882.58
+CMP0051,Paid Search 2024 051,paid_search,awareness,2024-11-03,2025-01-24,51270.89
+CMP0052,Paid Social 2023 052,paid_social,awareness,2023-03-13,2023-05-31,53436.27
+CMP0053,Display 2023 053,display,acquisition,2023-10-25,2023-12-17,40111.22
+CMP0054,Video 2024 054,video,awareness,2024-07-15,2024-09-10,16931.72
+CMP0055,Affiliate 2024 055,affiliate,acquisition,2024-08-19,2024-11-19,46092.80
+CMP0056,Paid Search 2025 056,paid_search,acquisition,2025-05-17,2025-09-06,60120.49
+CMP0057,Paid Social 2024 057,paid_social,lead_gen,2024-01-07,2024-04-30,55880.39
+CMP0058,Display 2023 058,display,lead_gen,2023-06-06,2023-09-20,29871.43
+CMP0059,Video 2025 059,video,acquisition,2025-03-13,2025-08-05,22521.39
+CMP0060,Affiliate 2024 060,affiliate,acquisition,2024-11-10,2025-04-05,79884.92
+CMP0061,Paid Search 2023 061,paid_search,lead_gen,2023-06-05,2023-10-14,50880.95
+CMP0062,Paid Social 2023 062,paid_social,lead_gen,2023-05-31,2023-10-07,64913.07
+CMP0063,Display 2025 063,display,lead_gen,2025-03-06,2025-05-17,58760.38
+CMP0064,Video 2024 064,video,lead_gen,2024-09-21,2024-11-22,74222.90
+CMP0065,Affiliate 2024 065,affiliate,awareness,2024-03-23,2024-05-07,24191.51
+CMP0066,Paid Search 2023 066,paid_search,lead_gen,2023-01-25,2023-03-29,26228.76
+CMP0067,Paid Social 2024 067,paid_social,acquisition,2024-12-18,2025-02-06,76431.14
+CMP0068,Display 2025 068,display,lead_gen,2025-03-06,2025-07-05,68674.80
+CMP0069,Video 2024 069,video,awareness,2024-09-28,2025-01-19,31275.60
+CMP0070,Affiliate 2024 070,affiliate,awareness,2024-02-18,2024-05-25,18386.12
+CMP0071,Paid Search 2023 071,paid_search,lead_gen,2023-02-11,2023-05-08,78158.38
+CMP0072,Paid Social 2024 072,paid_social,awareness,2024-10-24,2024-12-18,49808.42
+CMP0073,Display 2023 073,display,awareness,2023-03-09,2023-07-02,79487.06
+CMP0074,Video 2023 074,video,awareness,2023-04-17,2023-06-05,30992.79
+CMP0075,Affiliate 2023 075,affiliate,lead_gen,2023-03-07,2023-05-16,27312.34
+CMP0076,Paid Search 2024 076,paid_search,lead_gen,2024-04-09,2024-06-13,47970.37
+CMP0077,Paid Social 2025 077,paid_social,lead_gen,2025-05-25,2025-09-18,18894.65
+CMP0078,Display 2023 078,display,lead_gen,2023-08-23,2023-10-09,31875.08
+CMP0079,Video 2024 079,video,lead_gen,2024-04-09,2024-07-07,75572.78
+CMP0080,Affiliate 2024 080,affiliate,awareness,2024-04-25,2024-09-12,20903.18
+CMP0081,Paid Search 2023 081,paid_search,awareness,2023-06-27,2023-11-15,48241.24
+CMP0082,Paid Social 2023 082,paid_social,awareness,2023-06-08,2023-09-06,53455.13
+CMP0083,Display 2025 083,display,lead_gen,2025-05-12,2025-09-04,61419.31
+CMP0084,Video 2023 084,video,awareness,2023-04-16,2023-08-04,8102.32
+CMP0085,Affiliate 2024 085,affiliate,awareness,2024-07-22,2024-09-11,63165.68
+CMP0086,Paid Search 2023 086,paid_search,awareness,2023-03-02,2023-06-23,13698.33
+CMP0087,Paid Social 2023 087,paid_social,awareness,2023-06-09,2023-07-27,20215.14
+CMP0088,Display 2025 088,display,lead_gen,2025-06-13,2025-10-07,54373.06
+CMP0089,Video 2023 089,video,acquisition,2023-12-27,2024-02-26,48147.87
+CMP0090,Affiliate 2024 090,affiliate,acquisition,2024-12-07,2025-03-09,34681.00
+CMP0091,Paid Search 2024 091,paid_search,lead_gen,2024-04-08,2024-07-15,33046.33
+CMP0092,Paid Social 2024 092,paid_social,lead_gen,2024-11-22,2025-02-25,64885.51
+CMP0093,Display 2024 093,display,awareness,2024-05-17,2024-09-03,78979.48
+CMP0094,Video 2023 094,video,lead_gen,2023-06-02,2023-10-06,66477.07
+CMP0095,Affiliate 2025 095,affiliate,acquisition,2025-01-22,2025-05-05,23477.18
+CMP0096,Paid Search 2025 096,paid_search,awareness,2025-04-13,2025-06-05,27118.28
+CMP0097,Paid Social 2023 097,paid_social,awareness,2023-10-06,2023-12-28,50950.03
+CMP0098,Display 2024 098,display,lead_gen,2024-12-16,2025-02-02,49776.78
+CMP0099,Video 2023 099,video,awareness,2023-03-15,2023-06-28,12962.09
+CMP0100,Affiliate 2023 100,affiliate,lead_gen,2023-11-05,2024-01-05,61774.40
+CMP0101,Paid Search 2023 101,paid_search,awareness,2023-11-19,2024-01-07,74445.68
+CMP0102,Paid Social 2025 102,paid_social,awareness,2025-07-17,2025-11-05,75494.94
+CMP0103,Display 2024 103,display,lead_gen,2024-05-15,2024-07-26,33787.21
+CMP0104,Video 2023 104,video,awareness,2023-10-09,2023-12-29,58750.28
+CMP0105,Affiliate 2023 105,affiliate,lead_gen,2023-12-27,2024-04-03,75627.48
+CMP0106,Paid Search 2024 106,paid_search,acquisition,2024-06-29,2024-10-10,41333.42
+CMP0107,Paid Social 2024 107,paid_social,awareness,2024-08-21,2024-12-23,74343.86
+CMP0108,Display 2023 108,display,awareness,2023-08-21,2023-12-25,56160.77
+CMP0109,Video 2024 109,video,awareness,2024-01-13,2024-06-01,69532.05
+CMP0110,Affiliate 2025 110,affiliate,acquisition,2025-02-27,2025-07-15,37632.26
+CMP0111,Paid Search 2023 111,paid_search,acquisition,2023-11-29,2024-04-01,40817.34
+CMP0112,Paid Social 2024 112,paid_social,acquisition,2024-09-21,2024-11-06,57155.15
+CMP0113,Display 2025 113,display,lead_gen,2025-06-27,2025-11-02,20114.75
+CMP0114,Video 2024 114,video,awareness,2024-04-19,2024-08-07,59545.21
+CMP0115,Affiliate 2025 115,affiliate,lead_gen,2025-07-10,2025-09-02,53698.12
+CMP0116,Paid Search 2023 116,paid_search,acquisition,2023-05-19,2023-09-04,43360.18
+CMP0117,Paid Social 2023 117,paid_social,awareness,2023-08-12,2023-12-06,78212.52
+CMP0118,Display 2023 118,display,lead_gen,2023-10-16,2024-03-08,72976.15
+CMP0119,Video 2025 119,video,acquisition,2025-07-02,2025-09-04,18913.00
+CMP0120,Affiliate 2023 120,affiliate,acquisition,2023-08-14,2023-10-09,20205.92
