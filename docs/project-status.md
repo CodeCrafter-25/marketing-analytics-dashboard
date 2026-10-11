@@ -2,7 +2,7 @@
 
 ## Current Stage
 
-Source data inspection and documentation.
+Initial data quality assessment in BigQuery.
 
 ## Completed
 
@@ -16,6 +16,9 @@ Source data inspection and documentation.
 - Original source CSV files added to the repository
 - Dataset tables and relationships documented
 - Data dictionary created
+- Four source tables imported into BigQuery
+- Imported row counts validated against the source CSV files
+- Initial data quality assessment query created
 
 ## Next Steps
 
