@@ -2,7 +2,7 @@
 
 ## Current Stage
 
-Source data validated. Preparing analytical requirements and transformation logic.
+Source data profiling and preliminary marketing metric analysis.
 
 ## Completed
 
@@ -24,6 +24,9 @@ Source data validated. Preparing analytical requirements and transformation logi
 - Missing values, duplicates, numeric values, and dates checked
 - No data quality issues identified
 - Data quality results documented
+- Source data profiling query created
+- Preliminary campaign, traffic, lead, conversion, and revenue metrics calculated
+- Channel-level funnel calculated using grain-safe aggregations
 
 
 ## Next Steps
