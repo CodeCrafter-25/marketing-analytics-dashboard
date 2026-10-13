@@ -27,7 +27,10 @@ Source data profiling and preliminary marketing metric analysis.
 - Source data profiling query created
 - Preliminary campaign, traffic, lead, conversion, and revenue metrics calculated
 - Channel-level funnel calculated using grain-safe aggregations
-
+- Source data profiling completed
+- Campaign, traffic, lead, conversion, and revenue coverage documented
+- Preliminary channel-level performance evaluated
+- Important metric interpretation limitations identified
 
 ## Next Steps
 
@@ -36,3 +39,7 @@ Source data profiling and preliminary marketing metric analysis.
 - Define metric calculation rules
 - Design the analytical data model
 - Begin SQL transformations
+- Define the final business questions
+- Document marketing metric calculation rules
+- Select dashboard KPIs
+- Design the analytical reporting tables
