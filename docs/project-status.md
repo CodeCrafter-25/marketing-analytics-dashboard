@@ -1,11 +1,12 @@
 # Project Status
 
-## Current Stage
 
-Source data profiling and preliminary marketing metric analysis.
+## Current Stage
+Marketing metric definition and analytical data model design.
+
+
 
 ## Completed
-
 - GitHub repository created
 - Initial project structure created
 - Preliminary business objectives defined
@@ -31,15 +32,13 @@ Source data profiling and preliminary marketing metric analysis.
 - Campaign, traffic, lead, conversion, and revenue coverage documented
 - Preliminary channel-level performance evaluated
 - Important metric interpretation limitations identified
+- Final business questions defined
+- Dashboard audience and analytical scope documented
+- Dashboard limitations documented
 
 ## Next Steps
-
-- Profile campaign channels, objectives, conversion types, and date ranges
-- Define detailed business questions
-- Define metric calculation rules
-- Design the analytical data model
-- Begin SQL transformations
-- Define the final business questions
-- Document marketing metric calculation rules
-- Select dashboard KPIs
-- Design the analytical reporting tables
+- Document final metric calculation rules
+- Select primary and secondary dashboard KPIs
+- Design the analytical reporting model
+- Create campaign-level and monthly reporting tables
+- Validate the analytical outputs
