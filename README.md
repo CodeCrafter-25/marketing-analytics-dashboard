@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on analyzing marketing campaign performance and identifying the channels, campaigns, and customer segments that generate the strongest business results.
+This project focuses on analyzing marketing campaign performance and identifying the channels and campaigns that generate the strongest business results.
 
 The analysis will combine SQL-based data preparation with an interactive Tableau dashboard. The final dashboard will help marketing teams monitor advertising efficiency, customer acquisition, conversions, revenue, and return on marketing investment.
 
@@ -21,11 +21,17 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 - Click-Through Rate (CTR)
 - Advertising Spend
 - Cost per Click (CPC)
-- Conversions
-- Conversion Rate
-- Cost per Acquisition (CPA)
-- Revenue
+- Leads
+- Click-to-Lead Rate
+- Cost per Lead
+- Trials
+- Purchases
+- Lead-to-Purchase Rate
+- Cost per Conversion
+- Cost per Purchase
+- Attributed Revenue
 - Return on Advertising Spend (ROAS)
+- Budget Utilization Rate
 
 ## Tools
 
@@ -36,4 +42,4 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 
 ## Project Status
 
-🟡 In Progress — Project planning and dataset selection
+🟡 In Progress — Business questions and metric definition
