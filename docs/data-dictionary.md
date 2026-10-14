@@ -117,4 +117,4 @@ The initial manual inspection confirmed that:
 - Primary and foreign key columns are present
 - No obvious file corruption or column-separation issues were identified
 
-Detailed data quality checks will be performed in BigQuery.
+Detailed data quality checks were completed in BigQuery. The results are documented in `data-quality-report.md`.
