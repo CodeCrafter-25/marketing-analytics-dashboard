@@ -2,7 +2,7 @@
 
 
 ## Current Stage
-Marketing metric definition and analytical data model design.
+Analytical data model design.
 
 
 
@@ -35,10 +35,15 @@ Marketing metric definition and analytical data model design.
 - Final business questions defined
 - Dashboard audience and analytical scope documented
 - Dashboard limitations documented
+- Final marketing metric calculation rules documented
+- Primary and secondary dashboard KPIs selected
+- Campaign objective evaluation rules defined
+- Budget and time-based calculation limitations documented
+
 
 ## Next Steps
-- Document final metric calculation rules
-- Select primary and secondary dashboard KPIs
 - Design the analytical reporting model
-- Create campaign-level and monthly reporting tables
-- Validate the analytical outputs
+- Define campaign-level and monthly table structures
+- Create campaign-level reporting SQL
+- Create monthly performance reporting SQL
+- Validate analytical metrics against source totals
