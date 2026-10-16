@@ -2,8 +2,7 @@
 
 
 ## Current Stage
-Analytical data model design.
-
+Campaign-level analytical table development.
 
 
 ## Completed
@@ -39,11 +38,16 @@ Analytical data model design.
 - Primary and secondary dashboard KPIs selected
 - Campaign objective evaluation rules defined
 - Budget and time-based calculation limitations documented
+- Analytical reporting model designed
+- Campaign-level and monthly table grains defined
+- Source aggregation and join strategy documented
+- Tableau export structure planned
+- Analytical validation requirements defined
 
 
 ## Next Steps
-- Design the analytical reporting model
-- Define campaign-level and monthly table structures
 - Create campaign-level reporting SQL
+- Validate campaign-level row counts and totals
 - Create monthly performance reporting SQL
-- Validate analytical metrics against source totals
+- Validate monthly metrics against source totals
+- Export analytical tables for Tableau
