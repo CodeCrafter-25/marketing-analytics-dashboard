@@ -82,8 +82,8 @@ SELECT
   SAFE_DIVIDE(revenue, purchases) AS revenue_per_purchase
 FROM campaign_base;
 
-___________________________
 
+-- Validation query
 SELECT
   COUNT(*) AS total_rows,
   COUNT(DISTINCT campaign_id) AS unique_campaigns,
