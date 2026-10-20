@@ -42,4 +42,4 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 
 ## Project Status
 
-🟡 In Progress — Campaign-level SQL transformation.
+🟡 In Progress — Tableau data preparation and dashboard development.
