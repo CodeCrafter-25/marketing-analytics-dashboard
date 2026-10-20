@@ -2,7 +2,7 @@
 
 
 ## Current Stage
-Campaign-level analytical table development.
+Tableau dashboard development and data source setup.
 
 
 ## Completed
@@ -43,11 +43,19 @@ Campaign-level analytical table development.
 - Source aggregation and join strategy documented
 - Tableau export structure planned
 - Analytical validation requirements defined
+- Campaign-level reporting table created and validated
+- Campaign-level table confirmed with 120 unique campaigns and no duplicates
+- Monthly campaign performance table created and validated
+- Monthly table confirmed with 553 unique campaign-month combinations
+- Campaign and monthly totals reconciled with source data
+- Analytical SQL transformation scripts added to the repository
+- Tableau-ready analytical datasets exported
+- Campaign-level and monthly CSV files added to `data/processed`
 
 
 ## Next Steps
-- Create campaign-level reporting SQL
-- Validate campaign-level row counts and totals
-- Create monthly performance reporting SQL
-- Validate monthly metrics against source totals
-- Export analytical tables for Tableau
+- Connect the campaign-level dataset to Tableau
+- Connect the monthly performance dataset to Tableau
+- Validate field types and default aggregations in Tableau
+- Create the main calculated fields
+- Build the first dashboard worksheets
