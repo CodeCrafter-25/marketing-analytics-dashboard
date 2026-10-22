@@ -40,6 +40,22 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 - Excel or Google Sheets
 - GitHub
 
+## Tableau Public
+
+[View the work-in-progress Tableau workbook](https://public.tableau.com/shared/WXPR82H59?:display_count=n&:origin=viz_share_link)
+
+The Tableau workbook currently includes the five primary KPI worksheets:
+
+- Advertising Spend
+- Attributed Revenue
+- Purchases
+- ROAS
+- Cost per Purchase
+
+The KPI values were validated against the BigQuery analytical tables.
+Dashboard layout, trend analysis, filters, and supporting visualizations are still in development.
+
+
 ## Project Status
 
 🟡 In Progress — Tableau data preparation and dashboard development.
