@@ -51,11 +51,16 @@ Tableau dashboard development and data source setup.
 - Analytical SQL transformation scripts added to the repository
 - Tableau-ready analytical datasets exported
 - Campaign-level and monthly CSV files added to `data/processed`
-
+- Campaign-level and monthly datasets connected to Tableau as separate data sources
+- Tableau field types and aggregations validated
+- Five primary KPI worksheets created
+- Advertising Spend, Attributed Revenue, Purchases, ROAS, and Cost per Purchase validated
+- Initial Tableau workbook published to Tableau Public
 
 ## Next Steps
-- Connect the campaign-level dataset to Tableau
-- Connect the monthly performance dataset to Tableau
-- Validate field types and default aggregations in Tableau
-- Create the main calculated fields
-- Build the first dashboard worksheets
+- Create the main KPI dashboard layout
+- Build monthly Spend and Revenue trend charts
+- Create channel performance comparisons
+- Add filters for reporting month, channel, campaign, and objective
+- Validate dashboard totals and filter interactions
+- Refine dashboard formatting and visual hierarchy
