@@ -56,10 +56,10 @@ Tableau dashboard development and data source setup.
 - Five primary KPI worksheets created
 - Advertising Spend, Attributed Revenue, Purchases, ROAS, and Cost per Purchase validated
 - Initial Tableau workbook published to Tableau Public
+- Monthly Advertising Spend versus Attributed Revenue trend worksheet created
 
 ## Next Steps
 - Create the main KPI dashboard layout
-- Build monthly Spend and Revenue trend charts
 - Create channel performance comparisons
 - Add filters for reporting month, channel, campaign, and objective
 - Validate dashboard totals and filter interactions
