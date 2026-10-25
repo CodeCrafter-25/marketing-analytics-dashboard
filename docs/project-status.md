@@ -58,10 +58,10 @@ Tableau dashboard development and data source setup.
 - Initial Tableau workbook published to Tableau Public
 - Monthly Advertising Spend versus Attributed Revenue trend worksheet created
 - Channel-level Advertising Spend and Attributed Revenue comparison worksheet created
+- Initial main Tableau dashboard layout assembled and formatted
 
   
 ## Next Steps
-- Create the main KPI dashboard layout
 - Add filters for reporting month, channel, campaign, and objective
 - Validate dashboard totals and filter interactions
 - Refine dashboard formatting and visual hierarchy
