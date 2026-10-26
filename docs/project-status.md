@@ -2,7 +2,7 @@
 
 
 ## Current Stage
-Tableau dashboard development and data source setup.
+Tableau dashboard interactivity and filter development.
 
 
 ## Completed
@@ -59,9 +59,10 @@ Tableau dashboard development and data source setup.
 - Monthly Advertising Spend versus Attributed Revenue trend worksheet created
 - Channel-level Advertising Spend and Attributed Revenue comparison worksheet created
 - Initial main Tableau dashboard layout assembled and formatted
-
+- Cross-data-source Channel parameter and filters added to the Tableau dashboard
+- Channel filter interactions validated across KPI and visualization worksheets
   
 ## Next Steps
-- Add filters for reporting month, channel, campaign, and objective
+- Add filters for reporting month, campaign, and objective
 - Validate dashboard totals and filter interactions
 - Refine dashboard formatting and visual hierarchy
