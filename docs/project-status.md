@@ -61,7 +61,8 @@ Tableau dashboard interactivity and filter development.
 - Initial main Tableau dashboard layout assembled and formatted
 - Cross-data-source Channel parameter and filters added to the Tableau dashboard
 - Channel filter interactions validated across KPI and visualization worksheets
-  
+- Add filters for objective
+
 ## Next Steps
 - Add filters for reporting month, campaign, and objective
 - Validate dashboard totals and filter interactions
