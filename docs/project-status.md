@@ -63,9 +63,11 @@ Tableau dashboard interactivity and filter development.
 - Channel filter interactions validated across KPI and visualization worksheets
 - Cross-data-source Objective parameter and filters added to the Tableau dashboard
 - Objective filter interactions validated across KPI and visualization worksheets
-
+- Channel performance visualization rebuilt using the monthly-grain Tableau data source
+- Reporting Month range filter added across KPI and visualization worksheets
+- Reporting Month filter interactions and October 2024 totals validated
 
 ## Next Steps
-- Add filters for reporting month and campaign
+- Add a campaign filter
 - Validate dashboard totals and filter interactions
 - Refine dashboard formatting and visual hierarchy
