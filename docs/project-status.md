@@ -2,7 +2,7 @@
 
 
 ## Current Stage
-Tableau dashboard interactivity and filter development.
+Tableau dashboard validation and final formatting.
 
 
 ## Completed
@@ -66,8 +66,11 @@ Tableau dashboard interactivity and filter development.
 - Channel performance visualization rebuilt using the monthly-grain Tableau data source
 - Reporting Month range filter added across KPI and visualization worksheets
 - Reporting Month filter interactions and October 2024 totals validated
+- Interactive Campaign filter added across KPI and visualization worksheets
+- Campaign filter interactions validated using Paid Search 2023 001
+- Planned Tableau dashboard filters completed
+
 
 ## Next Steps
-- Add a campaign filter
 - Validate dashboard totals and filter interactions
 - Refine dashboard formatting and visual hierarchy
