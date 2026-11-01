@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project focuses on analyzing marketing campaign performance and identifying the channels and campaigns that generate the strongest business results.
+This project analyzes marketing campaign performance across 120 campaigns, five advertising channels, and three campaign objectives from January 2023 to December 2025.
 
-The analysis will combine SQL-based data preparation with an interactive Tableau dashboard. The final dashboard will help marketing teams monitor advertising efficiency, customer acquisition, conversions, revenue, and return on marketing investment.
+Marketing data was validated and transformed in BigQuery into campaign-level and monthly analytical datasets. The results are presented in an interactive Tableau dashboard that helps evaluate advertising spend, attributed revenue, purchases, ROAS, and cost efficiency.
+
+Users can explore performance by channel, campaign objective, reporting period, and individual campaign.
 
 ## Business Objectives
 
@@ -14,7 +16,7 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 - Measure customer acquisition efficiency
 - Identify opportunities to improve marketing budget allocation
 
-## Planned Key Metrics
+## Key Metrics
 
 - Impressions
 - Clicks
@@ -40,22 +42,30 @@ The analysis will combine SQL-based data preparation with an interactive Tableau
 - Excel or Google Sheets
 - GitHub
 
-## Tableau Public
+## Interactive Tableau Dashboard
 
-[View the work-in-progress Tableau workbook](https://public.tableau.com/shared/WXPR82H59?:display_count=n&:origin=viz_share_link)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/shared/WXPR82H59?:display_count=n&:origin=viz_share_link)
 
-The Tableau workbook currently includes the five primary KPI worksheets:
+The dashboard includes:
 
-- Advertising Spend
-- Attributed Revenue
-- Purchases
-- ROAS
-- Cost per Purchase
+- Advertising Spend, Attributed Revenue, Purchases, ROAS, and Cost per Purchase KPI cards
+- Monthly Advertising Spend versus Attributed Revenue trend analysis
+- Monthly channel-level Spend versus Attributed Revenue comparison
+- Interactive Channel and Objective parameters
+- Reporting Month range filter
+- Individual Campaign filter
 
-The KPI values were validated against the BigQuery analytical tables.
-Dashboard layout, trend analysis, filters, and supporting visualizations are still in development.
+### Dashboard Totals
+
+- **Advertising Spend:** $4,523,050.02
+- **Attributed Revenue:** $21,561,839.01
+- **Purchases:** 16,691
+- **ROAS:** 4.77x
+- **Cost per Purchase:** $270.99
+
+The dashboard totals and combined filter interactions were validated against the BigQuery analytical datasets.
 
 
 ## Project Status
 
-🟡 In Progress — Tableau data preparation and dashboard development.
+🟡 Final documentation stage — data validation, SQL transformation, analytical datasets, and the interactive Tableau dashboard are complete. Business insights and the final project review remain.
