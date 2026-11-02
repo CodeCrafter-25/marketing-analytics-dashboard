@@ -45,6 +45,7 @@ Users can explore performance by channel, campaign objective, reporting period, 
 ## Interactive Tableau Dashboard
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/shared/WXPR82H59?:display_count=n&:origin=viz_share_link)
+![Marketing Campaign Performance Dashboard](docs/marketing-analytics-dashboard.png)
 
 The dashboard includes:
 
