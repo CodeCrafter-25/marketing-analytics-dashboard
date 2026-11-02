@@ -76,10 +76,9 @@ Project documentation and business insights development.
 - Chart titles and axis labels standardized
 - Final default dashboard state and headline KPI totals validated
 - Final Tableau dashboard version published
-
+- README updated with the final dashboard overview and Tableau Public link
+- Final Tableau dashboard screenshot added to the repository and README
   
-  ## Next Steps
-- Update the README with the final dashboard overview and Tableau Public link
-- Add the final dashboard screenshot to the repository
+## Next Steps
 - Document key business insights and recommendations
 - Perform the final project review
