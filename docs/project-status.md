@@ -78,7 +78,10 @@ Project documentation and business insights development.
 - Final Tableau dashboard version published
 - README updated with the final dashboard overview and Tableau Public link
 - Final Tableau dashboard screenshot added to the repository and README
-  
+- Key channel-level business insights documented
+- Marketing budget optimization recommendations developed
+- Analytical limitations summarized for business interpretation
+
+
 ## Next Steps
-- Document key business insights and recommendations
 - Perform the final project review
