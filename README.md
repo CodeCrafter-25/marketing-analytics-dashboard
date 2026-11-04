@@ -42,6 +42,16 @@ Users can explore performance by channel, campaign objective, reporting period, 
 - Excel or Google Sheets
 - GitHub
 
+## Documentation
+
+- [Business Insights and Recommendations](docs/business-insights.md)
+- [Business Questions](docs/business-questions.md)
+- [Analytical Model](docs/analytical-model.md)
+- [Metric Definitions](docs/metric-definitions.md)
+- [Data Quality Report](docs/data-quality-report.md)
+- [Data Profile](docs/data-profile.md)
+- [Data Dictionary](docs/data-dictionary.md)
+
 ## Interactive Tableau Dashboard
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/shared/XGY6R5PK7?:display_count=n&:origin=viz_share_link)
@@ -69,4 +79,6 @@ The dashboard totals and combined filter interactions were validated against the
 
 ## Project Status
 
-🟡 Final documentation stage — data validation, SQL transformation, analytical datasets, and the interactive Tableau dashboard are complete. Business insights and the final project review remain.
+✅ Completed — November 2026
+
+The project includes validated source data, reproducible BigQuery transformations, Tableau-ready analytical datasets, an interactive Tableau dashboard, and documented business recommendations.
